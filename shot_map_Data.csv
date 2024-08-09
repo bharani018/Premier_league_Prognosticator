@@ -1,0 +1,533 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+320830,49,BlockedShot,0.733000031,0.622999992,0.052783962,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12065,Granada,Barcelona,2,0,9/21/2019 19:00,,Standard
+320837,81,SavedShot,0.871999969,0.587999992,0.09446612,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12065,Granada,Barcelona,2,0,9/21/2019 19:00,Anssumane Fati,Pass
+321614,2,MissedShots,0.978000031,0.693000031,0.05143575,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12073,Barcelona,Villarreal,2,1,9/24/2019 19:00,Sergio Busquets,Chipped
+325120,22,MissedShots,0.743000031,0.306000004,0.04761523,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,,Standard
+325121,24,BlockedShot,0.921999969,0.680999985,0.058755942,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,,None
+325125,33,MissedShots,0.794000015,0.312000008,0.076101199,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,,Standard
+325134,59,SavedShot,0.880999985,0.585,0.094849564,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,Arthur,TakeOn
+325140,77,Goal,0.788000031,0.384000015,0.094660483,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,,Standard
+325143,85,SavedShot,0.714000015,0.327999992,0.01579733,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,Frenkie de Jong,Pass
+325269,57,Goal,0.920999985,0.557000008,0.528572083,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Antoine Griezmann,Pass
+325271,69,BlockedShot,0.929000015,0.38,0.11836388,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Antoine Griezmann,Pass
+325273,82,MissedShots,0.744000015,0.512999992,0.068736605,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,,Standard
+328321,13,SavedShot,0.734000015,0.490999985,0.061639443,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,,Standard
+328329,32,BlockedShot,0.769000015,0.602999992,0.038451355,Lionel Messi,h,2097,SetPiece,2019,RightFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Jordi Alba,TakeOn
+328330,33,Goal,0.735999985,0.342999992,0.04992117,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,,Standard
+328332,45,SavedShot,0.815,0.267000008,0.072804697,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,,Standard
+328337,74,Goal,0.85,0.595999985,0.13356398,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Ivan Rakitic,Throughball
+328344,91,MissedShots,0.909000015,0.542000008,0.145030037,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Luis Suárez,Pass
+329229,37,Goal,0.885,0.5,0.743277609,Lionel Messi,a,2097,Penalty,2019,LeftFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,,Standard
+329231,42,SavedShot,0.954000015,0.497000008,0.660703361,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,,Rebound
+329230,42,SavedShot,0.954000015,0.497000008,0.628462553,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,,None
+329237,79,BlockedShot,0.769000015,0.34,0.017038213,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,Sergi Roberto,Pass
+329241,93,BlockedShot,0.760999985,0.43,0.024714448,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,Sergio Busquets,Pass
+331039,13,SavedShot,0.811999969,0.530999985,0.082004555,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,,TakeOn
+331040,22,Goal,0.885,0.5,0.743277609,Lionel Messi,h,2097,Penalty,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,,Standard
+331043,31,SavedShot,0.761999969,0.629000015,0.028340453,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,Júnior Firpo,Pass
+331045,45,Goal,0.726999969,0.43,0.054598443,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,,Standard
+331047,47,Goal,0.744000015,0.477999992,0.068498373,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,,Standard
+331903,55,SavedShot,0.849000015,0.475999985,0.094294317,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12157,Leganes,Barcelona,1,2,11/23/2019 12:00,Frenkie de Jong,Pass
+334646,59,SavedShot,0.739000015,0.462000008,0.021103706,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,Luis Suárez,Pass
+334648,63,BlockedShot,0.823000031,0.477999992,0.06554088,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,Frenkie de Jong,Pass
+334654,85,Goal,0.820999985,0.54,0.067279048,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,Luis Suárez,Pass
+336034,3,BlockedShot,0.836999969,0.267999992,0.034833722,Lionel Messi,h,2097,FromCorner,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Sergio Busquets,TakeOn
+336039,16,Goal,0.785999985,0.369000015,0.038465261,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Antoine Griezmann,Pass
+336043,29,SavedShot,0.975999985,0.61,0.348723143,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Luis Suárez,Chipped
+336047,40,Goal,0.818000031,0.502999992,0.094723627,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Ivan Rakitic,Pass
+336054,62,MissedShots,0.77,0.434000015,0.041311752,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Sergio Busquets,Pass
+336062,82,Goal,0.865999985,0.407000008,0.112452425,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Luis Suárez,Pass
+336066,92,BlockedShot,0.848000031,0.457999992,0.097444497,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Sergio Busquets,Pass
+337016,35,MissedShots,0.864000015,0.524000015,0.021328948,Lionel Messi,a,2097,OpenPlay,2019,Head,12190,Real Sociedad,Barcelona,2,2,12/14/2019 15:00,Sergi Roberto,Aerial
+338260,30,BlockedShot,0.864000015,0.499000015,0.07545311,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,,None
+338271,66,BlockedShot,0.704000015,0.53,0.044751048,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,,Standard
+338669,38,MissedShots,0.973000031,0.39,0.246905521,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,Antoine Griezmann,TakeOn
+338670,40,BlockedShot,0.779000015,0.306000004,0.024061875,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,Arturo Vidal,Pass
+338675,68,Goal,0.760999985,0.597999992,0.031239504,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,Luis Suárez,Pass
+338678,85,MissedShots,0.743000031,0.372999992,0.057706896,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,,Standard
+353720,25,SavedShot,0.845999985,0.39,0.046372935,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Sergi Roberto,HeadPass
+353722,40,SavedShot,0.9,0.549000015,0.080940299,Lionel Messi,a,2097,OpenPlay,2019,Head,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Sergi Roberto,Cross
+353724,42,SavedShot,0.758000031,0.262000008,0.046147693,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,,Standard
+353725,45,BlockedShot,0.853000031,0.435999985,0.11703638,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Antoine Griezmann,Pass
+353726,46,BlockedShot,0.911999969,0.261000004,0.040952802,Lionel Messi,a,2097,FromCorner,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Ivan Rakitic,Pass
+355412,12,MissedShots,0.750999985,0.455,0.07277403,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,,Standard
+355413,17,BlockedShot,0.875,0.630999985,0.071352646,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Arturo Vidal,Pass
+355415,22,BlockedShot,0.758000031,0.295,0.05216153,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,,Standard
+355418,44,MissedShots,0.865999985,0.582999992,0.094835714,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Jordi Alba,Pass
+355420,49,MissedShots,0.740999985,0.430999985,0.019623747,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Anssumane Fati,Pass
+355422,62,BlockedShot,0.821999969,0.41,0.1510517,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,,Standard
+355426,75,Goal,0.865,0.510999985,0.393865764,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Arturo Vidal,Pass
+355427,78,SavedShot,0.784000015,0.542000008,0.049059354,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Sergio Busquets,Pass
+355429,87,BlockedShot,0.779000015,0.527999992,0.047090057,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12214,Barcelona,Granada,1,0,1/19/2020 20:00,Carles Pérez,Pass
+355812,3,BlockedShot,0.809000015,0.678000031,0.030881142,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Antoine Griezmann,Pass
+355814,27,MissedShots,0.76,0.334000015,0.060772166,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,,Standard
+355819,35,SavedShot,0.698000031,0.46,0.041976489,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,,Standard
+355824,57,BlockedShot,0.91,0.544000015,0.411921918,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Jordi Alba,Pass
+355825,58,MissedShots,0.835999985,0.632999992,0.053189825,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Antoine Griezmann,Pass
+355826,67,MissedShots,0.848000031,0.686999969,0.043709695,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Jordi Alba,Pass
+355827,69,MissedShots,0.88,0.442999992,0.047537774,Lionel Messi,a,2097,OpenPlay,2019,Head,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Antoine Griezmann,Cross
+355828,72,SavedShot,0.791999969,0.632999992,0.093134567,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,,Standard
+355830,85,SavedShot,0.750999985,0.499000015,0.022246297,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Ivan Rakitic,Pass
+355832,91,MissedShots,0.770999985,0.332999992,0.067103997,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,,Standard
+355833,92,SavedShot,0.913000031,0.632000008,0.082768999,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12231,Valencia,Barcelona,2,0,1/25/2020 15:00,Arturo Vidal,Pass
+357417,12,MissedShots,0.851999969,0.52,0.096060753,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Anssumane Fati,Pass
+357418,16,SavedShot,0.825,0.489000015,0.079802155,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,,TakeOn
+357422,28,SavedShot,0.860999985,0.539000015,0.093644924,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Anssumane Fati,Pass
+357428,49,BlockedShot,0.920999985,0.454000015,0.568477988,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Anssumane Fati,Pass
+357435,57,SavedShot,0.810999985,0.285,0.021133378,Lionel Messi,h,2097,SetPiece,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Frenkie de Jong,Chipped
+357436,62,BlockedShot,0.760999985,0.47,0.024741072,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,,None
+357439,70,SavedShot,0.813000031,0.472000008,0.080346905,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Sergi Roberto,Pass
+357441,73,SavedShot,0.949000015,0.360999985,0.239720166,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,,TakeOn
+357442,76,BlockedShot,0.816999969,0.535999985,0.09102764,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Sergio Busquets,TakeOn
+357446,89,MissedShots,0.875999985,0.594000015,0.124198198,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12233,Barcelona,Levante,2,1,2/2/2020 20:00,Sergi Roberto,Pass
+358677,22,SavedShot,0.925,0.430999985,0.476152539,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12251,Real Betis,Barcelona,2,3,2/9/2020 20:00,Antoine Griezmann,Throughball
+358682,46,SavedShot,0.855,0.467999992,0.094808131,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12251,Real Betis,Barcelona,2,3,2/9/2020 20:00,Arturo Vidal,Pass
+358684,61,SavedShot,0.878000031,0.407999992,0.111557618,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12251,Real Betis,Barcelona,2,3,2/9/2020 20:00,Jordi Alba,TakeOn
+358685,66,MissedShots,0.869000015,0.696999969,0.04554021,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12251,Real Betis,Barcelona,2,3,2/9/2020 20:00,Jordi Alba,Pass
+358983,11,BlockedShot,0.75,0.407000008,0.020945143,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,Sergi Roberto,Pass
+358984,13,SavedShot,0.811999969,0.467999992,0.31642434,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,Sergio Busquets,Throughball
+358989,42,MissedShots,0.696999969,0.462999992,0.041649103,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,,Standard
+358990,47,SavedShot,0.923000031,0.555,0.225475788,Lionel Messi,h,2097,OpenPlay,2019,Head,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,Antoine Griezmann,Cross
+358992,58,BlockedShot,0.965999985,0.345999985,0.113202468,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,Anssumane Fati,Pass
+359001,89,MissedShots,0.786999969,0.316000004,0.018065432,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12254,Barcelona,Getafe,2,1,2/15/2020 15:00,Sergi Roberto,TakeOn
+359885,13,Goal,0.875,0.545999985,0.397850215,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2/22/2020 15:00,Ivan Rakitic,TakeOn
+359891,36,Goal,0.916999969,0.655,0.339960456,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2/22/2020 15:00,Arturo Vidal,Pass
+359892,39,Goal,0.91,0.467999992,0.453052759,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2/22/2020 15:00,,Dispossessed
+359904,78,SavedShot,0.728000031,0.527999992,0.057382539,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2/22/2020 15:00,,Standard
+359905,86,Goal,0.963000031,0.544000015,0.627507269,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12265,Barcelona,Eibar,5,0,2/22/2020 15:00,,None
+361464,29,SavedShot,0.883000031,0.370999985,0.081476845,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,Antoine Griezmann,Pass
+361469,37,SavedShot,0.845,0.487999992,0.281404257,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,Sergio Busquets,Chipped
+361471,46,BlockedShot,0.854000015,0.681999969,0.066034861,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,Frenkie de Jong,TakeOn
+361805,28,SavedShot,0.964000015,0.615,0.291255862,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,Sergio Busquets,Chipped
+361810,39,MissedShots,0.865,0.565,0.09823101,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,Frenkie de Jong,Pass
+361812,53,MissedShots,0.829000015,0.489000015,0.087895766,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,Jordi Alba,TakeOn
+361814,56,BlockedShot,0.751999969,0.625999985,0.063278601,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,,Standard
+361816,59,MissedShots,0.923000031,0.545999985,0.095103934,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,Antoine Griezmann,HeadPass
+361821,80,Goal,0.885,0.5,0.743277609,Lionel Messi,h,2097,Penalty,2019,LeftFoot,12285,Barcelona,Real Sociedad,1,0,3/7/2020 17:30,,Standard
+364341,11,BlockedShot,0.895,0.605,0.119264372,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12297,Mallorca,Barcelona,0,4,6/13/2020 20:00,Antoine Griezmann,Pass
+364354,65,MissedShots,0.920999985,0.648000031,0.11432682,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12297,Mallorca,Barcelona,0,4,6/13/2020 20:00,Ivan Rakitic,Pass
+364361,92,Goal,0.866999969,0.547999992,0.117047735,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12297,Mallorca,Barcelona,0,4,6/13/2020 20:00,Luis Suárez,Pass
+364666,43,MissedShots,0.920999985,0.515,0.084282219,Lionel Messi,h,2097,OpenPlay,2019,Head,12307,Barcelona,Leganes,2,0,6/16/2020 20:00,Sergi Roberto,Aerial
+364667,50,SavedShot,0.731999969,0.327999992,0.046184156,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12307,Barcelona,Leganes,2,0,6/16/2020 20:00,,Standard
+364669,68,Goal,0.885,0.5,0.743277609,Lionel Messi,h,2097,Penalty,2019,LeftFoot,12307,Barcelona,Leganes,2,0,6/16/2020 20:00,,Standard
+365122,20,BlockedShot,0.811999969,0.312000008,0.088890709,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,,Standard
+365123,22,SavedShot,0.698000031,0.575,0.040732667,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,,Standard
+365130,72,SavedShot,0.725,0.569000015,0.053551197,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,,Standard
+365134,84,BlockedShot,0.749000015,0.452000008,0.026378488,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,Antoine Griezmann,LayOff
+366264,9,MissedShots,0.765,0.645999985,0.021278076,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Arturo Vidal,TakeOn
+366271,24,BlockedShot,0.835999985,0.504000015,0.078062557,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Sergio Busquets,Pass
+366274,43,MissedShots,0.740999985,0.555,0.022030951,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Arthur,Pass
+366279,79,MissedShots,0.883000031,0.347999992,0.071239062,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Nélson Semedo,Pass
+366280,86,BlockedShot,0.735,0.509000015,0.06231346,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,,Standard
+366281,88,BlockedShot,0.796999969,0.5,0.061106898,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Anssumane Fati,Pass
+366286,95,BlockedShot,0.770999985,0.334000015,0.067341231,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,,Standard
+367113,9,BlockedShot,0.769000015,0.272999992,0.012544164,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Ivan Rakitic,Chipped
+367115,13,BlockedShot,0.751999969,0.515,0.032563075,Lionel Messi,a,2097,FromCorner,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Gerard Piqué,Pass
+367124,39,MissedShots,0.825999985,0.44,0.139088929,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Ivan Rakitic,TakeOn
+367128,50,MissedShots,0.958000031,0.412999992,0.091804326,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Arturo Vidal,None
+367129,53,MissedShots,0.8,0.515,0.037011381,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Luis Suárez,TakeOn
+367131,58,BlockedShot,0.845999985,0.714000015,0.034925554,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Jordi Alba,Pass
+367134,75,BlockedShot,0.725,0.397000008,0.050793897,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,,Standard
+367807,7,BlockedShot,0.715,0.482000008,0.015251481,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,Arturo Vidal,Pass
+367810,10,BlockedShot,0.956999969,0.173999996,0.072260186,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,,Standard
+367813,21,ShotOnPost,0.849000015,0.298999996,0.03860414,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,Arturo Vidal,Pass
+367814,29,MissedShots,0.810999985,0.525,0.058886137,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,Jordi Alba,Pass
+367816,41,SavedShot,0.760999985,0.342000008,0.062960304,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,,Standard
+367818,49,Goal,0.885,0.5,0.743277609,Lionel Messi,h,2097,Penalty,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,,Standard
+369286,18,BlockedShot,0.721999969,0.375,0.047249228,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,,Standard
+369292,52,SavedShot,0.854000015,0.495999985,0.127261087,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,Antoine Griezmann,Pass
+369300,90,SavedShot,0.949000015,0.344000015,0.092498705,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,Sergi Roberto,Pass
+369301,92,ShotOnPost,0.775999985,0.492999992,0.099933885,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,,Standard
+370021,21,MissedShots,0.781999969,0.307000008,0.067135215,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,,Standard
+370027,55,BlockedShot,0.951999969,0.624000015,0.106761687,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,Antoine Griezmann,Pass
+370031,67,SavedShot,0.955,0.678000031,0.061184745,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,Sergi Roberto,Chipped
+370032,73,BlockedShot,0.851999969,0.192000008,0.060653832,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,,Standard
+370650,0,BlockedShot,0.733000031,0.355999985,0.01688767,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12380,Real Valladolid,Barcelona,0,1,7/11/2020 17:30,Arturo Vidal,TakeOn
+370659,41,BlockedShot,0.848000031,0.602000008,0.09795288,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12380,Real Valladolid,Barcelona,0,1,7/11/2020 17:30,Arturo Vidal,TakeOn
+370665,62,SavedShot,0.778000031,0.268999996,0.055521943,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12380,Real Valladolid,Barcelona,0,1,7/11/2020 17:30,,Standard
+372051,21,ShotOnPost,0.785999985,0.306000004,0.069217026,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,,Standard
+372054,31,MissedShots,0.735,0.5,0.062365439,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,,Standard
+372055,38,BlockedShot,0.85,0.572999992,0.071616687,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Riqui Puig,Pass
+372059,49,MissedShots,0.750999985,0.472999992,0.073873073,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,,Standard
+372061,53,SavedShot,0.914000015,0.34,0.067161754,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Nélson Semedo,Pass
+372062,55,BlockedShot,0.881999969,0.567000008,0.097633809,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Anssumane Fati,Pass
+372064,61,Goal,0.758000031,0.580999985,0.074593313,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,,Standard
+372065,64,MissedShots,0.625999985,0.093999996,0.008851149,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Sergi Roberto,Pass
+372071,96,MissedShots,0.751999969,0.212000008,0.036684122,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,,Standard
+372490,15,ShotOnPost,0.738000031,0.454000015,0.021369953,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Anssumane Fati,Pass
+372492,20,MissedShots,0.768000031,0.424000015,0.084129602,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,,Standard
+372495,33,Goal,0.943000031,0.555,0.839625716,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Riqui Puig,TakeOn
+372501,74,Goal,0.891999969,0.517999992,0.12494842,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Jordi Alba,Cross
+310743,11,Goal,0.974000015,0.52,0.865913332,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12023,Celta Vigo,Real Madrid,1,3,8/17/2019 16:00,Gareth Bale,Pass
+310749,44,MissedShots,0.926999969,0.429000015,0.032096036,Karim Benzema,a,2370,FromCorner,2019,Head,12023,Celta Vigo,Real Madrid,1,3,8/17/2019 16:00,Toni Kroos,Aerial
+310750,45,MissedShots,0.876999969,0.675,0.066227786,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12023,Celta Vigo,Real Madrid,1,3,8/17/2019 16:00,Marcelo,Pass
+310755,60,SavedShot,0.893000031,0.567000008,0.039804682,Karim Benzema,a,2370,OpenPlay,2019,Head,12023,Celta Vigo,Real Madrid,1,3,8/17/2019 16:00,Álvaro Odriozola,Aerial
+312735,16,MissedShots,0.788000031,0.678000031,0.025583748,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12034,Real Madrid,Real Valladolid,1,1,8/24/2019 18:00,James Rodríguez,Pass
+312739,23,MissedShots,0.939000015,0.54,0.089716606,Karim Benzema,h,2370,OpenPlay,2019,Head,12034,Real Madrid,Real Valladolid,1,1,8/24/2019 18:00,Daniel Carvajal,Aerial
+312744,37,SavedShot,0.974000015,0.635,0.075892493,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12034,Real Madrid,Real Valladolid,1,1,8/24/2019 18:00,Toni Kroos,Pass
+312750,50,MissedShots,0.900999985,0.520999985,0.048677523,Karim Benzema,h,2370,OpenPlay,2019,Head,12034,Real Madrid,Real Valladolid,1,1,8/24/2019 18:00,Isco,Aerial
+312758,81,Goal,0.829000015,0.572999992,0.058549538,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12034,Real Madrid,Real Valladolid,1,1,8/24/2019 18:00,Raphael Varane,Pass
+316661,44,ShotOnPost,0.801999969,0.674000015,0.025210433,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,Toni Kroos,Pass
+316667,62,BlockedShot,0.925999985,0.405999985,0.039080061,Karim Benzema,a,2370,OpenPlay,2019,Head,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,Gareth Bale,Aerial
+316990,1,SavedShot,0.818000031,0.555,0.061074495,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,Lucas Vázquez,Pass
+316997,20,SavedShot,0.813000031,0.557999992,0.046725836,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,Marcelo,Pass
+317000,24,Goal,0.915,0.499000015,0.372440308,Karim Benzema,h,2370,OpenPlay,2019,Head,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,Daniel Carvajal,Cross
+317001,30,Goal,0.891999969,0.495999985,0.467464566,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,James Rodríguez,Throughball
+317006,56,ShotOnPost,0.81,0.575,0.096810222,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,Toni Kroos,TakeOn
+317014,70,BlockedShot,0.906999969,0.519000015,0.085243404,Karim Benzema,h,2370,FromCorner,2019,Head,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,Toni Kroos,Cross
+317018,77,MissedShots,0.82,0.530999985,0.075910658,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12060,Real Madrid,Levante,3,2,9/14/2019 11:00,James Rodríguez,Pass
+321417,5,MissedShots,0.92,0.479000015,0.053930227,Karim Benzema,a,2370,FromCorner,2019,Head,12068,Sevilla,Real Madrid,0,1,9/22/2019 19:00,Toni Kroos,Aerial
+321421,19,MissedShots,0.765999985,0.485,0.029307986,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12068,Sevilla,Real Madrid,0,1,9/22/2019 19:00,Eden Hazard,Pass
+321427,63,Goal,0.935,0.545999985,0.385810316,Karim Benzema,a,2370,OpenPlay,2019,Head,12068,Sevilla,Real Madrid,0,1,9/22/2019 19:00,Daniel Carvajal,Chipped
+323091,25,BlockedShot,0.799000015,0.786999969,0.01484807,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12085,Atletico Madrid,Real Madrid,0,0,9/28/2019 19:00,Eden Hazard,Pass
+323104,74,SavedShot,0.88,0.527000008,0.068267122,Karim Benzema,a,2370,OpenPlay,2019,Head,12085,Atletico Madrid,Real Madrid,0,0,9/28/2019 19:00,Nacho,Cross
+324110,1,Goal,0.93,0.590999985,0.300424188,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12099,Real Madrid,Granada,4,2,10/5/2019 15:00,Gareth Bale,Cross
+324113,13,MissedShots,0.895,0.725999985,0.01995462,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12099,Real Madrid,Granada,4,2,10/5/2019 15:00,Casemiro,Cross
+324130,85,SavedShot,0.925999985,0.582999992,0.445841283,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12099,Real Madrid,Granada,4,2,10/5/2019 15:00,Álvaro Odriozola,Pass
+326673,8,MissedShots,0.914000015,0.582000008,0.018922467,Karim Benzema,a,2370,FromCorner,2019,Head,12110,Mallorca,Real Madrid,1,0,10/19/2019 20:00,James Rodríguez,Aerial
+326679,26,ShotOnPost,0.951999969,0.614000015,0.244866833,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12110,Mallorca,Real Madrid,1,0,10/19/2019 20:00,James Rodríguez,Chipped
+326684,52,SavedShot,0.784000015,0.675999985,0.022528639,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12110,Mallorca,Real Madrid,1,0,10/19/2019 20:00,Vinícius Júnior,Pass
+328653,15,MissedShots,0.831999969,0.731999969,0.042876191,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12130,Real Madrid,Leganes,5,0,10/30/2019 20:15,Eden Hazard,Pass
+328658,38,SavedShot,0.878000031,0.38,0.404841572,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12130,Real Madrid,Leganes,5,0,10/30/2019 20:15,Daniel Carvajal,Pass
+328661,41,MissedShots,0.733000031,0.592999992,0.05605736,Karim Benzema,h,2370,DirectFreekick,2019,RightFoot,12130,Real Madrid,Leganes,5,0,10/30/2019 20:15,,Standard
+328665,66,ShotOnPost,0.790999985,0.442999992,0.058272205,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12130,Real Madrid,Leganes,5,0,10/30/2019 20:15,Federico Valverde,Pass
+328666,68,Goal,0.885,0.5,0.743277609,Karim Benzema,h,2370,Penalty,2019,RightFoot,12130,Real Madrid,Leganes,5,0,10/30/2019 20:15,,Standard
+329599,6,SavedShot,0.86,0.32,0.10814923,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Daniel Carvajal,Throughball
+329603,23,MissedShots,0.813000031,0.703000031,0.024927255,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Ferland Mendy,Chipped
+329612,35,MissedShots,0.955999985,0.522000008,0.113269038,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Daniel Carvajal,Cross
+329613,36,BlockedShot,0.895999985,0.709000015,0.047659356,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Ferland Mendy,TakeOn
+329615,44,SavedShot,0.809000015,0.395999985,0.043859892,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Rodrygo,Pass
+329624,71,MissedShots,0.920999985,0.504000015,0.135637105,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12139,Real Madrid,Real Betis,0,0,11/2/2019 20:00,Vinícius Júnior,Pass
+330862,9,SavedShot,0.959000015,0.525999985,0.567263067,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12148,Eibar,Real Madrid,0,4,11/9/2019 17:30,Eden Hazard,Cross
+330864,16,Goal,0.935999985,0.671999969,0.313763112,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12148,Eibar,Real Madrid,0,4,11/9/2019 17:30,,None
+330867,28,Goal,0.885,0.5,0.743277609,Karim Benzema,a,2370,Penalty,2019,RightFoot,12148,Eibar,Real Madrid,0,4,11/9/2019 17:30,,Standard
+330870,38,MissedShots,0.925,0.349000015,0.116412744,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12148,Eibar,Real Madrid,0,4,11/9/2019 17:30,Lucas Vázquez,Pass
+330880,64,MissedShots,0.865,0.73,0.045045607,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12148,Eibar,Real Madrid,0,4,11/9/2019 17:30,Sergio Ramos,Pass
+332636,21,SavedShot,0.925,0.545999985,0.048388302,Karim Benzema,h,2370,FromCorner,2019,Head,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Luka Modric,Aerial
+332638,26,MissedShots,0.864000015,0.745,0.027990287,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Eden Hazard,Pass
+332640,36,Goal,0.936999969,0.54,0.388182223,Karim Benzema,h,2370,SetPiece,2019,OtherBodyPart,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Luka Modric,Cross
+332646,61,BlockedShot,0.804000015,0.630999985,0.04475018,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Rodrygo,Pass
+332652,80,MissedShots,0.755,0.405999985,0.028548786,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Eden Hazard,Pass
+332658,92,SavedShot,0.813000031,0.352000008,0.091247611,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12160,Real Madrid,Real Sociedad,3,1,11/23/2019 20:00,Isco,Pass
+333401,34,MissedShots,0.805999985,0.335,0.045470182,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12163,Alaves,Real Madrid,1,2,11/30/2019 12:00,Luka Modric,LayOff
+333405,62,MissedShots,0.918000031,0.654000015,0.081114672,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12163,Alaves,Real Madrid,1,2,11/30/2019 12:00,,None
+335442,13,SavedShot,0.87,0.705999985,0.038265582,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12180,Real Madrid,Espanyol,2,0,12/7/2019 12:00,Vinícius Júnior,Pass
+335450,52,SavedShot,0.929000015,0.62,0.426874727,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12180,Real Madrid,Espanyol,2,0,12/7/2019 12:00,Federico Valverde,Pass
+335457,70,MissedShots,0.890999985,0.542000008,0.42566967,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12180,Real Madrid,Espanyol,2,0,12/7/2019 12:00,Vinícius Júnior,Pass
+335460,78,Goal,0.935999985,0.475,0.607339919,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12180,Real Madrid,Espanyol,2,0,12/7/2019 12:00,Federico Valverde,Pass
+337847,9,SavedShot,0.838000031,0.427000008,0.061252762,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,,None
+337849,13,MissedShots,0.918000031,0.512000008,0.386594892,Karim Benzema,a,2370,OpenPlay,2019,Head,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,Nacho,Cross
+337861,57,BlockedShot,0.806999969,0.714000015,0.023550499,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,Luka Modric,Chipped
+337863,64,MissedShots,0.920999985,0.435,0.055938128,Karim Benzema,a,2370,OpenPlay,2019,Head,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,,Aerial
+337870,93,BlockedShot,0.869000015,0.385,0.057337057,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,Daniel Carvajal,TakeOn
+337872,94,Goal,0.971999969,0.524000015,0.774426758,Karim Benzema,a,2370,FromCorner,2019,RightFoot,12192,Valencia,Real Madrid,1,1,12/15/2019 20:00,,Rebound
+338252,9,SavedShot,0.841999969,0.572999992,0.079494528,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,Isco,Pass
+338270,64,ShotOnPost,0.953000031,0.605999985,0.089518555,Karim Benzema,a,2370,OpenPlay,2019,Head,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,Daniel Carvajal,Cross
+339462,31,MissedShots,0.970999985,0.387999992,0.577649355,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Toni Kroos,TakeOn
+339461,31,SavedShot,0.938000031,0.602999992,0.085973881,Karim Benzema,h,2370,OpenPlay,2019,Head,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Rodrygo,Cross
+339464,37,SavedShot,0.92,0.572999992,0.112761773,Karim Benzema,h,2370,OpenPlay,2019,Head,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Rodrygo,Cross
+339465,41,MissedShots,0.860999985,0.67,0.049381409,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Rodrygo,Pass
+339468,56,SavedShot,0.89,0.318999996,0.049267571,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Daniel Carvajal,Pass
+339470,62,BlockedShot,0.801999969,0.512999992,0.050033275,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Luka Modric,Pass
+339471,63,SavedShot,0.888000031,0.330999985,0.07140141,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,Daniel Carvajal,TakeOn
+353670,0,SavedShot,0.96,0.357000008,0.01582953,Karim Benzema,a,2370,OpenPlay,2019,Head,12207,Getafe,Real Madrid,0,3,1/4/2020 15:00,Gareth Bale,Pass
+353677,41,SavedShot,0.915,0.337000008,0.068343766,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12207,Getafe,Real Madrid,0,3,1/4/2020 15:00,Raphael Varane,Chipped
+354933,81,BlockedShot,0.849000015,0.640999985,0.071221001,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12221,Real Madrid,Sevilla,2,1,1/18/2020 15:00,Vinícius Júnior,Pass
+356460,66,MissedShots,0.919000015,0.532999992,0.060582884,Karim Benzema,a,2370,OpenPlay,2019,Head,12232,Real Valladolid,Real Madrid,0,1,1/26/2020 20:00,Rodrygo,Aerial
+356463,82,SavedShot,0.918000031,0.282000008,0.031567272,Karim Benzema,a,2370,FromCorner,2019,RightFoot,12232,Real Valladolid,Real Madrid,0,1,1/26/2020 20:00,Toni Kroos,Cross
+356709,55,Goal,0.936999969,0.474000015,0.5048334,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12238,Real Madrid,Atletico Madrid,1,0,2/1/2020 15:00,Ferland Mendy,Cross
+356712,67,MissedShots,0.916999969,0.56,0.029602323,Karim Benzema,h,2370,FromCorner,2019,Head,12238,Real Madrid,Atletico Madrid,1,0,2/1/2020 15:00,Luka Modric,Aerial
+358512,16,BlockedShot,0.865,0.824000015,0.082915179,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12246,Osasuna,Real Madrid,1,4,2/9/2020 15:00,Isco,Throughball
+358519,34,MissedShots,0.751999969,0.385999985,0.02281837,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12246,Osasuna,Real Madrid,1,4,2/9/2020 15:00,Luka Modric,Pass
+358522,46,MissedShots,0.936999969,0.579000015,0.061192494,Karim Benzema,a,2370,OpenPlay,2019,Head,12246,Osasuna,Real Madrid,1,4,2/9/2020 15:00,Luka Modric,Aerial
+358523,48,BlockedShot,0.895,0.469000015,0.135071725,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12246,Osasuna,Real Madrid,1,4,2/9/2020 15:00,Luka Modric,Pass
+358524,49,BlockedShot,0.855999985,0.360999985,0.078467891,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12246,Osasuna,Real Madrid,1,4,2/9/2020 15:00,,BallTouch
+359558,25,BlockedShot,0.875999985,0.54,0.065000944,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12259,Real Madrid,Celta Vigo,2,2,2/16/2020 20:00,Daniel Carvajal,Cross
+359571,87,MissedShots,0.958000031,0.602999992,0.076074846,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12259,Real Madrid,Celta Vigo,2,2,2/16/2020 20:00,Daniel Carvajal,Cross
+359573,90,SavedShot,0.87,0.675999985,0.057885297,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12259,Real Madrid,Celta Vigo,2,2,2/16/2020 20:00,Ferland Mendy,Pass
+360135,6,SavedShot,0.91,0.258999996,0.034167361,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12269,Levante,Real Madrid,1,0,2/22/2020 20:00,Daniel Carvajal,Pass
+360137,10,SavedShot,0.854000015,0.632999992,0.238105655,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12269,Levante,Real Madrid,1,0,2/22/2020 20:00,Isco,Pass
+360153,58,BlockedShot,0.858000031,0.781999969,0.024009462,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12269,Levante,Real Madrid,1,0,2/22/2020 20:00,Marcelo,Pass
+360159,82,BlockedShot,0.953000031,0.517999992,0.614841819,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12269,Levante,Real Madrid,1,0,2/22/2020 20:00,Vinícius Júnior,Pass
+361460,6,MissedShots,0.855999985,0.325999985,0.035513416,Karim Benzema,h,2370,FromCorner,2019,RightFoot,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,,None
+361465,33,MissedShots,0.909000015,0.522000008,0.111619256,Karim Benzema,h,2370,OpenPlay,2019,Head,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,Marcelo,Cross
+361476,62,MissedShots,0.954000015,0.382000008,0.301944226,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12279,Real Madrid,Barcelona,2,0,3/1/2020 20:00,Daniel Carvajal,Chipped
+362401,47,Goal,0.885,0.5,0.743277609,Karim Benzema,a,2370,Penalty,2019,RightFoot,12286,Real Betis,Real Madrid,2,1,3/8/2020 20:00,,Standard
+362415,94,MissedShots,0.815,0.635,0.032691136,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12286,Real Betis,Real Madrid,2,1,3/8/2020 20:00,Ferland Mendy,Pass
+364934,50,BlockedShot,0.896999969,0.690999985,0.05923428,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12308,Real Madrid,Valencia,3,0,6/18/2020 20:00,,BallTouch
+364937,60,Goal,0.880999985,0.462999992,0.40353182,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12308,Real Madrid,Valencia,3,0,6/18/2020 20:00,Eden Hazard,Pass
+364942,85,Goal,0.86,0.500999985,0.145642728,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12308,Real Madrid,Valencia,3,0,6/18/2020 20:00,Marco Asensio,TakeOn
+365912,32,SavedShot,0.885,0.699000015,0.069895081,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12320,Real Sociedad,Real Madrid,1,2,6/21/2020 20:00,Federico Valverde,Pass
+365921,69,Goal,0.884000015,0.54,0.099081911,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12320,Real Sociedad,Real Madrid,1,2,6/21/2020 20:00,Federico Valverde,Cross
+366520,6,SavedShot,0.915,0.430999985,0.096274354,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12329,Real Madrid,Mallorca,2,0,6/24/2020 20:00,Ferland Mendy,Cross
+366526,17,BlockedShot,0.815,0.73,0.024049075,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12329,Real Madrid,Mallorca,2,0,6/24/2020 20:00,Vinícius Júnior,Pass
+366534,51,SavedShot,0.849000015,0.66,0.061656397,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12329,Real Madrid,Mallorca,2,0,6/24/2020 20:00,Vinícius Júnior,Pass
+367589,35,SavedShot,0.866999969,0.675,0.04421157,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12336,Espanyol,Real Madrid,0,1,6/28/2020 20:00,Toni Kroos,Pass
+367594,50,SavedShot,0.99,0.397000008,0.045411993,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12336,Espanyol,Real Madrid,0,1,6/28/2020 20:00,Isco,Cross
+368457,2,SavedShot,0.800999985,0.472999992,0.047921073,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12349,Real Madrid,Getafe,1,0,7/2/2020 20:00,Daniel Carvajal,Pass
+368468,44,MissedShots,0.868000031,0.693000031,0.043973479,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12349,Real Madrid,Getafe,1,0,7/2/2020 20:00,Vinícius Júnior,Pass
+368472,67,MissedShots,0.853000031,0.55,0.092821285,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12349,Real Madrid,Getafe,1,0,7/2/2020 20:00,Marco Asensio,Pass
+368887,3,MissedShots,0.955,0.537999992,0.497316331,Karim Benzema,a,2370,SetPiece,2019,Head,12353,Athletic Club,Real Madrid,0,1,7/5/2020 12:00,Daniel Carvajal,Pass
+368893,45,MissedShots,0.964000015,0.494000015,0.650752723,Karim Benzema,a,2370,OpenPlay,2019,Head,12353,Athletic Club,Real Madrid,0,1,7/5/2020 12:00,Marco Asensio,Cross
+368901,87,SavedShot,0.936999969,0.643000031,0.332158118,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12353,Athletic Club,Real Madrid,0,1,7/5/2020 12:00,Toni Kroos,Pass
+370321,3,BlockedShot,0.855,0.716999969,0.032048553,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12372,Real Madrid,Alaves,2,0,7/10/2020 20:00,Luka Modric,Pass
+370323,10,Goal,0.885,0.5,0.743277609,Karim Benzema,h,2370,Penalty,2019,RightFoot,12372,Real Madrid,Alaves,2,0,7/10/2020 20:00,,Standard
+370331,49,SavedShot,0.853000031,0.577999992,0.100784719,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12372,Real Madrid,Alaves,2,0,7/10/2020 20:00,Rodrygo,Pass
+370333,57,SavedShot,0.845999985,0.487000008,0.118613273,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12372,Real Madrid,Alaves,2,0,7/10/2020 20:00,Marco Asensio,Pass
+371292,15,Goal,0.905999985,0.639000015,0.098888509,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12376,Granada,Real Madrid,1,2,7/13/2020 20:00,Luka Modric,Pass
+371296,42,SavedShot,0.913000031,0.273999996,0.065109946,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12376,Granada,Real Madrid,1,2,7/13/2020 20:00,Luka Modric,Pass
+371305,68,MissedShots,0.845,0.624000015,0.043713201,Karim Benzema,a,2370,OpenPlay,2019,LeftFoot,12376,Granada,Real Madrid,1,2,7/13/2020 20:00,Rodrygo,Cross
+371980,6,SavedShot,0.891999969,0.477999992,0.094472751,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12390,Real Madrid,Villarreal,2,1,7/16/2020 19:00,Luka Modric,Cross
+371982,14,MissedShots,0.915999985,0.68,0.057142034,Karim Benzema,h,2370,OpenPlay,2019,LeftFoot,12390,Real Madrid,Villarreal,2,1,7/16/2020 19:00,Casemiro,Chipped
+371985,28,Goal,0.903000031,0.402000008,0.366946489,Karim Benzema,h,2370,OpenPlay,2019,RightFoot,12390,Real Madrid,Villarreal,2,1,7/16/2020 19:00,Luka Modric,Pass
+371990,76,Goal,0.885,0.5,0.743149698,Karim Benzema,h,2370,Penalty,2019,RightFoot,12390,Real Madrid,Villarreal,2,1,7/16/2020 19:00,,Standard
+372776,17,MissedShots,0.936999969,0.293999996,0.055129565,Karim Benzema,a,2370,OpenPlay,2019,RightFoot,12396,Leganes,Real Madrid,2,2,7/19/2020 19:00,Lucas Vázquez,Pass
+311021,64,Goal,0.885999985,0.595999985,0.100994028,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,8/17/2019 20:00,Moi Gómez,Pass
+312234,2,Goal,0.96,0.48,0.683888316,Gerard Moreno,a,2120,OpenPlay,2019,RightFoot,12041,Levante,Villarreal,2,1,8/23/2019 21:00,Karl Toko Ekambi,Pass
+312242,24,MissedShots,0.861999969,0.73,0.043795642,Gerard Moreno,a,2120,OpenPlay,2019,RightFoot,12041,Levante,Villarreal,2,1,8/23/2019 21:00,Alberto Moreno,Pass
+312248,29,SavedShot,0.938000031,0.435,0.119810492,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12041,Levante,Villarreal,2,1,8/23/2019 21:00,Mario,Cross
+312257,56,MissedShots,0.921999969,0.499000015,0.092488751,Gerard Moreno,a,2120,OpenPlay,2019,Head,12041,Levante,Villarreal,2,1,8/23/2019 21:00,Moi Gómez,Chipped
+312270,89,MissedShots,0.916999969,0.497000008,0.49488458,Gerard Moreno,a,2120,OpenPlay,2019,RightFoot,12041,Levante,Villarreal,2,1,8/23/2019 21:00,Samuel Chukwueze,Pass
+316649,9,MissedShots,0.899000015,0.719000015,0.036846559,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,Xavier Quintillá,Pass
+316651,11,Goal,0.915,0.582999992,0.441478848,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,,None
+316653,23,BlockedShot,0.906999969,0.572999992,0.133377776,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,Santiago Cazorla,Pass
+316659,40,SavedShot,0.856999969,0.334000015,0.083708808,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,Samuel Chukwueze,Pass
+316669,73,SavedShot,0.851999969,0.46,0.077347495,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12052,Villarreal,Real Madrid,2,2,9/1/2019 20:00,,Rebound
+317385,25,Goal,0.879000015,0.419000015,0.300377816,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12058,Leganes,Villarreal,0,3,9/14/2019 14:00,Santiago Cazorla,Chipped
+317396,92,Goal,0.845999985,0.492999992,0.118195623,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12058,Leganes,Villarreal,0,3,9/14/2019 14:00,Karl Toko Ekambi,Pass
+320174,11,SavedShot,0.923000031,0.409000015,0.090499289,Gerard Moreno,h,2120,OpenPlay,2019,Head,12070,Villarreal,Real Valladolid,2,0,9/21/2019 11:00,Rubén Peña,Cross
+320181,48,BlockedShot,0.724000015,0.577999992,0.015511053,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12070,Villarreal,Real Valladolid,2,0,9/21/2019 11:00,Franck Zambo,BallRecovery
+321620,24,BlockedShot,0.754000015,0.590999985,0.021914192,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12073,Barcelona,Villarreal,2,1,9/24/2019 19:00,Santiago Cazorla,Pass
+322282,10,MissedShots,0.946999969,0.465999985,0.080482841,Gerard Moreno,h,2120,FromCorner,2019,Head,12092,Villarreal,Real Betis,5,1,9/27/2019 19:00,Santiago Cazorla,Aerial
+322286,37,BlockedShot,0.925,0.512999992,0.075393066,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12092,Villarreal,Real Betis,5,1,9/27/2019 19:00,Rubén Peña,Aerial
+322294,59,BlockedShot,0.851999969,0.52,0.044587243,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12092,Villarreal,Real Betis,5,1,9/27/2019 19:00,Karl Toko Ekambi,Cross
+322297,61,MissedShots,0.845,0.579000015,0.063575752,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12092,Villarreal,Real Betis,5,1,9/27/2019 19:00,,Rebound
+322304,91,Goal,0.915,0.374000015,0.306976825,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12092,Villarreal,Real Betis,5,1,9/27/2019 19:00,Manu Trigueros,BallRecovery
+324474,4,SavedShot,0.935,0.492999992,0.077270627,Gerard Moreno,a,2120,SetPiece,2019,Head,12098,Osasuna,Villarreal,2,1,10/5/2019 20:00,Santiago Cazorla,Aerial
+324495,68,MissedShots,0.869000015,0.645,0.063057952,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12098,Osasuna,Villarreal,2,1,10/5/2019 20:00,Javi Ontiveros,Pass
+324503,87,MissedShots,0.890999985,0.545,0.210109979,Gerard Moreno,a,2120,OpenPlay,2019,Head,12098,Osasuna,Villarreal,2,1,10/5/2019 20:00,Samuel Chukwueze,Cross
+326414,90,MissedShots,0.928000031,0.733000031,0.058647025,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12107,Espanyol,Villarreal,0,1,10/20/2019 15:00,,None
+326871,31,MissedShots,0.775,0.480999985,0.050114319,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12121,Villarreal,Alaves,4,1,10/25/2019 20:00,Santiago Cazorla,BallRecovery
+326878,52,MissedShots,0.883000031,0.354000015,0.103792638,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12121,Villarreal,Alaves,4,1,10/25/2019 20:00,Vicente Iborra,Chipped
+326887,73,BlockedShot,0.745999985,0.435999985,0.038326956,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12121,Villarreal,Alaves,4,1,10/25/2019 20:00,Samuel Chukwueze,LayOff
+326888,76,SavedShot,0.868000031,0.412999992,0.084265627,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12121,Villarreal,Alaves,4,1,10/25/2019 20:00,Santiago Cazorla,Chipped
+326889,83,Goal,0.921999969,0.475,0.646210134,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12121,Villarreal,Alaves,4,1,10/25/2019 20:00,Santiago Cazorla,Pass
+328697,73,BlockedShot,0.779000015,0.246000004,0.018922236,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12127,Eibar,Villarreal,2,1,10/31/2019 18:00,Raúl Albiol,Pass
+328705,87,Goal,0.9,0.547999992,0.536864102,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12127,Eibar,Villarreal,2,1,10/31/2019 18:00,Pau Torres,TakeOn
+328710,93,BlockedShot,0.703000031,0.301000004,0.0110739,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12127,Eibar,Villarreal,2,1,10/31/2019 18:00,,BallRecovery
+329705,58,SavedShot,0.931999969,0.450999985,0.326459199,Gerard Moreno,h,2120,FromCorner,2019,RightFoot,12141,Villarreal,Athletic Club,0,0,11/3/2019 13:00,Raúl Albiol,Chipped
+331106,6,MissedShots,0.884000015,0.477999992,0.072942965,Gerard Moreno,a,2120,OpenPlay,2019,Head,12150,Mallorca,Villarreal,3,1,11/10/2019 11:00,Rubén Peña,Cross
+331118,46,BlockedShot,0.933000031,0.445,0.101309255,Gerard Moreno,a,2120,FromCorner,2019,RightFoot,12150,Mallorca,Villarreal,3,1,11/10/2019 11:00,Moi Gómez,None
+331132,94,BlockedShot,0.819000015,0.534000015,0.047031835,Gerard Moreno,a,2120,SetPiece,2019,LeftFoot,12150,Mallorca,Villarreal,3,1,11/10/2019 11:00,,None
+333117,11,BlockedShot,0.841999969,0.570999985,0.081437215,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Samuel Chukwueze,Pass
+333119,17,MissedShots,0.926999969,0.497000008,0.12210156,Gerard Moreno,h,2120,FromCorner,2019,Head,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Santiago Cazorla,Cross
+333120,23,MissedShots,0.785,0.63,0.030332522,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Karl Toko Ekambi,BallRecovery
+333130,61,ShotOnPost,0.970999985,0.622999992,0.072916277,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Moi Gómez,None
+333134,70,MissedShots,0.846999969,0.542999992,0.086606823,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Karl Toko Ekambi,Pass
+333135,72,MissedShots,0.881999969,0.46,0.060026012,Gerard Moreno,h,2120,OpenPlay,2019,Head,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,Rubén Peña,Cross
+333138,87,MissedShots,0.904000015,0.545999985,0.060579665,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12161,Villarreal,Celta Vigo,1,3,11/24/2019 17:30,,Aerial
+334032,14,SavedShot,0.885,0.5,0.743277609,Gerard Moreno,a,2120,Penalty,2019,LeftFoot,12172,Valencia,Villarreal,2,1,11/30/2019 20:00,,Standard
+334036,19,BlockedShot,0.961999969,0.656999969,0.064366139,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12172,Valencia,Villarreal,2,1,11/30/2019 20:00,,None
+334064,93,BlockedShot,0.898000031,0.524000015,0.107559249,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12172,Valencia,Villarreal,2,1,11/30/2019 20:00,,Rebound
+335372,9,MissedShots,0.905999985,0.592999992,0.055111516,Gerard Moreno,h,2120,FromCorner,2019,Head,12181,Villarreal,Atletico Madrid,0,0,12/6/2019 20:00,Moi Gómez,Cross
+335376,29,BlockedShot,0.925999985,0.665999985,0.01095653,Gerard Moreno,h,2120,OpenPlay,2019,Head,12181,Villarreal,Atletico Madrid,0,0,12/6/2019 20:00,Manu Trigueros,Aerial
+335396,68,MissedShots,0.76,0.645999985,0.024018522,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12181,Villarreal,Atletico Madrid,0,0,12/6/2019 20:00,Pau Torres,Pass
+337794,7,MissedShots,0.795,0.632999992,0.027868338,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12191,Sevilla,Villarreal,1,2,12/15/2019 17:30,Pau Torres,TakeOn
+337808,55,SavedShot,0.914000015,0.312000008,0.26924333,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12191,Sevilla,Villarreal,1,2,12/15/2019 17:30,Samuel Chukwueze,Pass
+338772,24,ShotOnPost,0.969000015,0.485,0.662552714,Gerard Moreno,h,2120,OpenPlay,2019,Head,12201,Villarreal,Getafe,1,0,12/21/2019 17:30,Moi Gómez,Cross
+338775,32,SavedShot,0.978000031,0.666999969,0.049989037,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12201,Villarreal,Getafe,1,0,12/21/2019 17:30,Manu Trigueros,Pass
+353789,9,MissedShots,0.9,0.45,0.041185435,Gerard Moreno,a,2120,FromCorner,2019,Head,12209,Real Sociedad,Villarreal,1,2,1/5/2020 13:00,Samuel Chukwueze,Chipped
+357362,34,MissedShots,0.921999969,0.489000015,0.318125248,Gerard Moreno,h,2120,OpenPlay,2019,OtherBodyPart,12241,Villarreal,Osasuna,3,1,2/2/2020 17:30,Rubén Peña,Cross
+358116,7,SavedShot,0.844000015,0.649000015,0.048984576,Gerard Moreno,a,2120,OpenPlay,2019,RightFoot,12248,Real Valladolid,Villarreal,1,1,2/8/2020 17:30,,None
+358123,53,Goal,0.971999969,0.54,0.619008601,Gerard Moreno,a,2120,FromCorner,2019,LeftFoot,12248,Real Valladolid,Villarreal,1,1,2/8/2020 17:30,Vicente Iborra,None
+359051,8,Goal,0.866999969,0.354000015,0.064511009,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12262,Villarreal,Levante,2,1,2/15/2020 17:30,Paco Alcácer,BallTouch
+359058,36,MissedShots,0.921999969,0.465999985,0.087794669,Gerard Moreno,h,2120,OpenPlay,2019,Head,12262,Villarreal,Levante,2,1,2/15/2020 17:30,Rubén Peña,Aerial
+359072,82,BlockedShot,0.866999969,0.666999969,0.036139168,Gerard Moreno,h,2120,FromCorner,2019,LeftFoot,12262,Villarreal,Levante,2,1,2/15/2020 17:30,Ramiro Funes Mori,HeadPass
+360432,62,MissedShots,0.915999985,0.464000015,0.061957225,Gerard Moreno,a,2120,OpenPlay,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2/23/2020 20:00,Rubén Peña,Aerial
+361242,11,SavedShot,0.879000015,0.467999992,0.387534082,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,Paco Alcácer,Throughball
+362332,4,Goal,0.949000015,0.524000015,0.569928885,Gerard Moreno,h,2120,OpenPlay,2019,Head,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Santiago Cazorla,Cross
+362334,6,MissedShots,0.956999969,0.67,0.119792685,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Santiago Cazorla,Throughball
+362336,13,MissedShots,0.861999969,0.512999992,0.025060387,Gerard Moreno,h,2120,FromCorner,2019,Head,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Santiago Cazorla,Cross
+362339,17,MissedShots,0.805999985,0.31,0.038690355,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,,None
+362348,40,MissedShots,0.924000015,0.4,0.313438892,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Moi Gómez,Cross
+362349,44,SavedShot,0.825999985,0.547999992,0.07993602,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Paco Alcácer,Pass
+362357,84,SavedShot,0.896999969,0.542000008,0.243090063,Gerard Moreno,h,2120,OpenPlay,2019,Head,12288,Villarreal,Leganes,1,2,3/8/2020 17:30,Javi Ontiveros,Cross
+364283,14,MissedShots,0.870999985,0.637000008,0.036276259,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12295,Celta Vigo,Villarreal,0,1,6/13/2020 15:00,Alberto Moreno,Cross
+364292,34,MissedShots,0.91,0.597000008,0.302082449,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12295,Celta Vigo,Villarreal,0,1,6/13/2020 15:00,Paco Alcácer,Chipped
+364572,66,SavedShot,0.915999985,0.756999969,0.03785225,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12309,Villarreal,Mallorca,1,0,6/16/2020 17:30,Alberto Moreno,Pass
+364580,88,BlockedShot,0.825999985,0.360999985,0.068100139,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12309,Villarreal,Mallorca,1,0,6/16/2020 17:30,Samuel Chukwueze,Pass
+365056,10,Goal,0.896999969,0.33,0.108126655,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12318,Granada,Villarreal,0,1,6/19/2020 17:30,Rubén Peña,Throughball
+365987,29,SavedShot,0.876999969,0.715,0.106763922,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12331,Villarreal,Sevilla,2,2,6/22/2020 20:00,Paco Alcácer,Chipped
+367363,20,ShotOnPost,0.894000015,0.607999992,0.025597278,Gerard Moreno,h,2120,FromCorner,2019,Head,12342,Villarreal,Valencia,2,0,6/28/2020 16:30,Santiago Cazorla,Cross
+367370,43,Goal,0.858000031,0.447999992,0.365086049,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12342,Villarreal,Valencia,2,0,6/28/2020 16:30,Santiago Cazorla,Pass
+367373,49,MissedShots,0.879000015,0.545999985,0.056497391,Gerard Moreno,h,2120,SetPiece,2019,Head,12342,Villarreal,Valencia,2,0,6/28/2020 16:30,Santiago Cazorla,Cross
+368280,6,Goal,0.885,0.5,0.743277609,Gerard Moreno,a,2120,Penalty,2019,LeftFoot,12345,Real Betis,Villarreal,0,2,7/1/2020 20:00,,Standard
+368283,29,Goal,0.853000031,0.507000008,0.122250825,Gerard Moreno,a,2120,OpenPlay,2019,RightFoot,12345,Real Betis,Villarreal,0,2,7/1/2020 20:00,Carlos Bacca,TakeOn
+368285,37,BlockedShot,0.896999969,0.422999992,0.478456587,Gerard Moreno,a,2120,OpenPlay,2019,LeftFoot,12345,Real Betis,Villarreal,0,2,7/1/2020 20:00,Alberto Moreno,Pass
+369282,13,Goal,0.925,0.485,0.642670929,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,,Rebound
+369864,52,MissedShots,0.930999985,0.517999992,0.074026681,Gerard Moreno,a,2120,SetPiece,2019,Head,12370,Getafe,Villarreal,1,3,7/8/2020 18:30,Santiago Cazorla,Aerial
+372573,24,MissedShots,0.946999969,0.325999985,0.069356427,Gerard Moreno,h,2120,OpenPlay,2019,RightFoot,12401,Villarreal,Eibar,4,0,7/19/2020 19:00,Vicente Iborra,Pass
+372576,33,BlockedShot,0.913000031,0.693000031,0.096709825,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12401,Villarreal,Eibar,4,0,7/19/2020 19:00,Santiago Cazorla,Chipped
+372581,57,BlockedShot,0.854000015,0.342000008,0.043306228,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12401,Villarreal,Eibar,4,0,7/19/2020 19:00,Santiago Cazorla,Pass
+372587,85,Goal,0.93,0.592999992,0.212454498,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12401,Villarreal,Eibar,4,0,7/19/2020 19:00,Andrés Fernández,TakeOn
+372588,88,Goal,0.889000015,0.653000031,0.263213456,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12401,Villarreal,Eibar,4,0,7/19/2020 19:00,Moi Gómez,Pass
+310387,31,ShotOnPost,0.881999969,0.6,0.369401157,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12026,Athletic Club,Barcelona,1,0,8/16/2019 20:00,,None
+317718,60,Goal,0.806999969,0.585999985,0.067022398,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12054,Barcelona,Valencia,5,2,9/14/2019 19:00,Arthur,Pass
+317722,64,SavedShot,0.780999985,0.577999992,0.051341124,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12054,Barcelona,Valencia,5,2,9/14/2019 19:00,Carles Pérez,Pass
+317727,81,Goal,0.855,0.654000015,0.087769881,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12054,Barcelona,Valencia,5,2,9/14/2019 19:00,Antoine Griezmann,Pass
+320824,20,BlockedShot,0.786999969,0.577999992,0.104157932,Luis Suárez,a,2098,DirectFreekick,2019,RightFoot,12065,Granada,Barcelona,2,0,9/21/2019 19:00,,Standard
+320826,31,BlockedShot,0.805999985,0.464000015,0.045260448,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12065,Granada,Barcelona,2,0,9/21/2019 19:00,,BallRecovery
+320829,49,BlockedShot,0.895999985,0.435,0.085078269,Luis Suárez,a,2098,SetPiece,2019,LeftFoot,12065,Granada,Barcelona,2,0,9/21/2019 19:00,Gerard Piqué,Chipped
+321625,51,SavedShot,0.875999985,0.482000008,0.091624789,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12073,Barcelona,Villarreal,2,1,9/24/2019 19:00,Ousmane Dembélé,Cross
+322747,21,MissedShots,0.800999985,0.389000015,0.037751418,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12088,Getafe,Barcelona,0,2,9/28/2019 14:00,Antoine Griezmann,Pass
+322751,40,Goal,0.81,0.505999985,0.294776261,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12088,Getafe,Barcelona,0,2,9/28/2019 14:00,Marc-André ter Stegen,Throughball
+322752,44,MissedShots,0.838000031,0.430999985,0.119307943,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12088,Getafe,Barcelona,0,2,9/28/2019 14:00,,None
+322755,61,SavedShot,0.915999985,0.625,0.133007169,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12088,Getafe,Barcelona,0,2,9/28/2019 14:00,Frenkie de Jong,Throughball
+325115,3,SavedShot,0.594000015,0.177000008,0.005428301,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,Lionel Messi,HeadPass
+325123,26,Goal,0.918000031,0.487999992,0.101964653,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,Nélson Semedo,Cross
+325144,86,SavedShot,0.858000031,0.599000015,0.316454917,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12093,Barcelona,Sevilla,4,0,10/6/2019 20:00,Lionel Messi,Chipped
+325261,4,MissedShots,0.52,0.427999992,0.005926878,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Clement Lenglet,TakeOn
+325266,34,BlockedShot,0.869000015,0.324000015,0.061954897,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Frenkie de Jong,Pass
+325268,55,SavedShot,0.86,0.485,0.109496497,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Frenkie de Jong,Pass
+325270,65,Goal,0.901999969,0.567000008,0.463267863,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Lionel Messi,Pass
+325274,84,MissedShots,0.855999985,0.597999992,0.091674544,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,10/19/2019 12:00,Lionel Messi,Pass
+328338,76,Goal,0.903000031,0.45,0.537101567,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Lionel Messi,Throughball
+328339,82,BlockedShot,0.879000015,0.442999992,0.434809446,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Sergio Busquets,TakeOn
+328341,84,SavedShot,0.865999985,0.532000008,0.193842202,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12125,Barcelona,Real Valladolid,5,1,10/29/2019 20:15,Gerard Piqué,TakeOn
+329224,6,SavedShot,0.815,0.487000008,0.076027721,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12137,Levante,Barcelona,3,1,11/2/2019 15:00,Frenkie de Jong,TakeOn
+331052,81,MissedShots,0.761999969,0.465999985,0.041229021,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12146,Barcelona,Celta Vigo,4,1,11/9/2019 20:00,Ousmane Dembélé,TakeOn
+331896,30,SavedShot,0.905,0.512999992,0.089672633,Luis Suárez,a,2098,FromCorner,2019,Head,12157,Leganes,Barcelona,1,2,11/23/2019 12:00,Ousmane Dembélé,Cross
+331897,31,SavedShot,0.923000031,0.627000008,0.027613722,Luis Suárez,a,2098,FromCorner,2019,Head,12157,Leganes,Barcelona,1,2,11/23/2019 12:00,Lionel Messi,Cross
+331901,52,Goal,0.919000015,0.482000008,0.32168594,Luis Suárez,a,2098,SetPiece,2019,Head,12157,Leganes,Barcelona,1,2,11/23/2019 12:00,Lionel Messi,Cross
+331904,64,MissedShots,0.805,0.505999985,0.043790128,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12157,Leganes,Barcelona,1,2,11/23/2019 12:00,Lionel Messi,Pass
+334637,35,MissedShots,0.785,0.387999992,0.029729331,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,Antoine Griezmann,Pass
+334641,41,BlockedShot,0.745,0.565999985,0.017062875,Luis Suárez,a,2098,FromCorner,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,,None
+334647,62,SavedShot,0.818000031,0.560999985,0.074077927,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,12/1/2019 20:00,Sergi Roberto,Pass
+336042,27,ShotOnPost,0.911999969,0.379000015,0.350916833,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Sergi Roberto,TakeOn
+336044,31,MissedShots,0.938000031,0.382000008,0.690104961,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Sergio Busquets,TakeOn
+336045,34,BlockedShot,0.921999969,0.693000031,0.0709287,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Frenkie de Jong,Pass
+336048,42,Goal,0.915,0.382000008,0.112651005,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Frenkie de Jong,Pass
+336051,56,SavedShot,0.901999969,0.372999992,0.134923711,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Lionel Messi,Throughball
+336052,57,SavedShot,0.845,0.424000015,0.116587959,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Lionel Messi,Pass
+336058,74,SavedShot,0.870999985,0.415999985,0.126286253,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Arturo Vidal,Pass
+336067,93,SavedShot,0.925,0.64,0.281015515,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12173,Barcelona,Mallorca,5,2,12/7/2019 20:00,Lionel Messi,Pass
+337012,14,SavedShot,0.794000015,0.592999992,0.04454888,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,12/14/2019 15:00,Antoine Griezmann,HeadPass
+337020,48,Goal,0.895,0.560999985,0.422536701,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,12/14/2019 15:00,Lionel Messi,Pass
+338274,73,MissedShots,0.875999985,0.629000015,0.082054533,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,Arturo Vidal,Pass
+338275,86,MissedShots,0.925,0.460999985,0.051932015,Luis Suárez,h,2098,FromCorner,2019,Head,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,Anssumane Fati,Aerial
+338276,88,BlockedShot,0.879000015,0.720999985,0.033463947,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12113,Barcelona,Real Madrid,0,0,12/18/2019 19:00,Anssumane Fati,Pass
+338676,71,BlockedShot,0.973000031,0.562999992,0.142288134,Luis Suárez,h,2098,OpenPlay,2019,Head,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,Arturo Vidal,Cross
+338677,74,Goal,0.885,0.5,0.743277609,Luis Suárez,h,2098,Penalty,2019,RightFoot,12193,Barcelona,Alaves,4,1,12/21/2019 15:00,,Standard
+353723,41,ShotOnPost,0.875999985,0.400999985,0.095194176,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Sergi Roberto,TakeOn
+353728,49,Goal,0.929000015,0.562999992,0.472041935,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Jordi Alba,Throughball
+353731,64,SavedShot,0.879000015,0.510999985,0.429160684,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Lionel Messi,Throughball
+353734,80,MissedShots,0.963000031,0.685999985,0.074609973,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,,TakeOn
+353735,86,SavedShot,0.849000015,0.502999992,0.31887266,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12206,Espanyol,Barcelona,2,2,1/4/2020 20:00,Arturo Vidal,HeadPass
+364353,65,SavedShot,0.988000031,0.600999985,0.09449666,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12297,Mallorca,Barcelona,0,4,6/13/2020 20:00,Lionel Messi,Pass
+364362,94,SavedShot,0.916999969,0.663000031,0.090332821,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12297,Mallorca,Barcelona,0,4,6/13/2020 20:00,Lionel Messi,Pass
+365120,2,SavedShot,0.811999969,0.327000008,0.030749708,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,Nélson Semedo,Pass
+365128,57,BlockedShot,0.853000031,0.653000031,0.056211617,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,Jordi Alba,Pass
+365131,73,BlockedShot,0.933000031,0.273999996,0.019621013,Luis Suárez,a,2098,FromCorner,2019,RightFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,,Aerial
+365132,75,BlockedShot,0.915999985,0.34,0.106535047,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,Lionel Messi,Throughball
+365135,87,MissedShots,0.883000031,0.555,0.29377839,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12321,Sevilla,Barcelona,0,0,6/19/2020 20:00,Jordi Alba,Cross
+366268,14,SavedShot,0.758000031,0.53,0.026399266,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Clement Lenglet,Pass
+366269,14,MissedShots,0.895999985,0.312000008,0.051354218,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Lionel Messi,Pass
+366278,73,BlockedShot,0.871999969,0.650999985,0.069614522,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12324,Barcelona,Athletic Club,1,0,6/23/2020 20:00,Lionel Messi,TakeOn
+367117,19,Goal,0.964000015,0.450999985,0.507582486,Luis Suárez,a,2098,SetPiece,2019,Head,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Lionel Messi,Chipped
+367123,35,BlockedShot,0.873000031,0.419000015,0.059108242,Luis Suárez,a,2098,FromCorner,2019,RightFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Ivan Rakitic,Pass
+367132,66,Goal,0.885,0.452000008,0.11691837,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12335,Celta Vigo,Barcelona,2,2,6/27/2020 15:00,Lionel Messi,Pass
+367806,1,SavedShot,0.784000015,0.63,0.04341739,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,6/30/2020 20:00,Riqui Puig,Pass
+369283,15,SavedShot,0.940999985,0.674000015,0.074897729,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,Jordi Alba,TakeOn
+369287,19,Goal,0.810999985,0.659000015,0.031065905,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,Lionel Messi,Pass
+369293,57,MissedShots,0.983000031,0.382000008,0.414813489,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12361,Villarreal,Barcelona,1,4,7/5/2020 20:00,Arturo Vidal,Throughball
+370022,24,BlockedShot,0.885,0.69,0.043360297,Luis Suárez,h,2098,OpenPlay,2019,LeftFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,Antoine Griezmann,Pass
+370025,45,MissedShots,0.861999969,0.445,0.032291465,Luis Suárez,h,2098,OpenPlay,2019,Head,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,Sergi Roberto,Cross
+370028,55,Goal,0.918000031,0.542999992,0.475984842,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12364,Barcelona,Espanyol,1,0,7/8/2020 20:00,,Rebound
+372067,90,BlockedShot,0.818000031,0.693000031,0.028883355,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Anssumane Fati,Pass
+372070,94,ShotOnPost,0.944000015,0.400999985,0.287169456,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12385,Barcelona,Osasuna,1,2,7/16/2020 19:00,Lionel Messi,Chipped
+372491,16,SavedShot,0.861999969,0.624000015,0.291129887,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Lionel Messi,Chipped
+372494,26,SavedShot,0.828000031,0.525999985,0.343767911,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Riqui Puig,Throughball
+372498,43,Goal,0.916999969,0.475999985,0.379809588,Luis Suárez,a,2098,OpenPlay,2019,Head,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Jordi Alba,Pass
+372499,44,MissedShots,0.983000031,0.360999985,0.098415717,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Lionel Messi,Chipped
+372506,89,MissedShots,0.989000015,0.425999985,0.523548901,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12393,Alaves,Barcelona,0,5,7/19/2020 19:00,Martin Braithwaite,Rebound
+310384,7,MissedShots,0.941999969,0.352999992,0.019272739,Raúl García,h,2400,FromCorner,2019,Head,12026,Athletic Club,Barcelona,1,0,8/16/2019 20:00,Unai López,Cross
+310388,35,SavedShot,0.89,0.407999992,0.10775651,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12026,Athletic Club,Barcelona,1,0,8/16/2019 20:00,Ander Capa,Pass
+312883,5,Goal,0.950999985,0.59,0.334947258,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12038,Getafe,Athletic Club,1,1,8/24/2019 20:00,Ander Capa,Cross
+315482,27,Goal,0.790999985,0.701999969,0.028736349,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12047,Athletic Club,Real Sociedad,2,0,8/30/2019 21:00,Iñigo Córdoba,Pass
+316970,24,SavedShot,0.883000031,0.467999992,0.04392533,Raúl García,a,2400,FromCorner,2019,Head,12059,Mallorca,Athletic Club,0,0,9/13/2019 19:00,Unai López,Cross
+316974,38,MissedShots,0.739000015,0.744000015,0.012489636,Raúl García,a,2400,OpenPlay,2019,RightFoot,12059,Mallorca,Athletic Club,0,0,9/13/2019 19:00,Iñigo Córdoba,Pass
+316983,61,SavedShot,0.97,0.590999985,0.310907483,Raúl García,a,2400,OpenPlay,2019,RightFoot,12059,Mallorca,Athletic Club,0,0,9/13/2019 19:00,Yeray Álvarez,Cross
+316984,68,MissedShots,0.921999969,0.534000015,0.065019123,Raúl García,a,2400,SetPiece,2019,Head,12059,Mallorca,Athletic Club,0,0,9/13/2019 19:00,Dani García,Aerial
+321372,13,MissedShots,0.740999985,0.765,0.012126837,Raúl García,h,2400,OpenPlay,2019,RightFoot,12063,Athletic Club,Alaves,2,0,9/22/2019 16:30,,BallRecovery
+321373,25,MissedShots,0.865,0.525999985,0.071710922,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12063,Athletic Club,Alaves,2,0,9/22/2019 16:30,Iñigo Martínez,Cross
+321375,37,Goal,0.885,0.5,0.743277609,Raúl García,h,2400,Penalty,2019,RightFoot,12063,Athletic Club,Alaves,2,0,9/22/2019 16:30,,Standard
+321730,58,Goal,0.885,0.5,0.743149698,Raúl García,a,2400,Penalty,2019,RightFoot,12080,Leganes,Athletic Club,1,1,9/25/2019 17:00,,Standard
+321732,63,BlockedShot,0.756999969,0.599000015,0.018298041,Raúl García,a,2400,OpenPlay,2019,RightFoot,12080,Leganes,Athletic Club,1,1,9/25/2019 17:00,,None
+322330,1,MissedShots,0.904000015,0.597000008,0.014214912,Raúl García,h,2400,FromCorner,2019,Head,12084,Athletic Club,Valencia,0,1,9/28/2019 11:00,Ibai Gómez,Aerial
+322339,46,MissedShots,0.920999985,0.430999985,0.036843609,Raúl García,h,2400,FromCorner,2019,Head,12084,Athletic Club,Valencia,0,1,9/28/2019 11:00,Unai López,Aerial
+322351,87,MissedShots,0.878000031,0.532999992,0.058204021,Raúl García,h,2400,SetPiece,2019,Head,12084,Athletic Club,Valencia,0,1,9/28/2019 11:00,Beñat,Cross
+324643,52,BlockedShot,0.703000031,0.236000004,0.013397273,Raúl García,a,2400,OpenPlay,2019,RightFoot,12095,Celta Vigo,Athletic Club,1,0,10/6/2019 13:00,Muniain,Pass
+324644,62,MissedShots,0.846999969,0.222000008,0.017925197,Raúl García,a,2400,OpenPlay,2019,RightFoot,12095,Celta Vigo,Athletic Club,1,0,10/6/2019 13:00,,None
+326557,9,SavedShot,0.876999969,0.422000008,0.03282854,Raúl García,h,2400,OpenPlay,2019,Head,12104,Athletic Club,Real Valladolid,1,1,10/20/2019 17:30,Iñaki Williams,Cross
+326558,14,SavedShot,0.843000031,0.482000008,0.090909146,Raúl García,h,2400,OpenPlay,2019,RightFoot,12104,Athletic Club,Real Valladolid,1,1,10/20/2019 17:30,Muniain,Pass
+326577,75,MissedShots,0.9,0.494000015,0.042442031,Raúl García,h,2400,SetPiece,2019,OtherBodyPart,12104,Athletic Club,Real Valladolid,1,1,10/20/2019 17:30,Beñat,Aerial
+327586,31,SavedShot,0.846999969,0.18,0.01498444,Raúl García,a,2400,OpenPlay,2019,RightFoot,12115,Atletico Madrid,Athletic Club,2,0,10/26/2019 20:00,Iñaki Williams,BallRecovery
+327588,39,BlockedShot,0.894000015,0.404000015,0.069092743,Raúl García,a,2400,OpenPlay,2019,RightFoot,12115,Atletico Madrid,Athletic Club,2,0,10/26/2019 20:00,,None
+328442,65,MissedShots,0.815999985,0.512999992,0.088386863,Raúl García,h,2400,OpenPlay,2019,RightFoot,12124,Athletic Club,Espanyol,3,0,10/30/2019 19:00,Iñaki Williams,Pass
+328447,88,SavedShot,0.725999985,0.345999985,0.020976264,Raúl García,h,2400,OpenPlay,2019,RightFoot,12124,Athletic Club,Espanyol,3,0,10/30/2019 19:00,Dani García,Pass
+329704,54,MissedShots,0.97,0.405999985,0.1923711,Raúl García,a,2400,FromCorner,2019,Head,12141,Villarreal,Athletic Club,0,0,11/3/2019 13:00,Ibai Gómez,Cross
+329708,68,MissedShots,0.763000031,0.497000008,0.027737662,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12141,Villarreal,Athletic Club,0,0,11/3/2019 13:00,Ander Capa,Pass
+331205,30,SavedShot,0.906999969,0.385999985,0.086514048,Raúl García,h,2400,OpenPlay,2019,RightFoot,12144,Athletic Club,Levante,2,1,11/10/2019 13:00,,Dispossessed
+331214,55,BlockedShot,0.888000031,0.400999985,0.031371985,Raúl García,h,2400,FromCorner,2019,Head,12144,Athletic Club,Levante,2,1,11/10/2019 13:00,Ibai Gómez,Cross
+331218,65,MissedShots,0.940999985,0.567000008,0.067236349,Raúl García,h,2400,OpenPlay,2019,Head,12144,Athletic Club,Levante,2,1,11/10/2019 13:00,Ander Capa,Aerial
+331222,72,MissedShots,0.854000015,0.185,0.02135575,Raúl García,h,2400,OpenPlay,2019,RightFoot,12144,Athletic Club,Levante,2,1,11/10/2019 13:00,Muniain,Pass
+334128,7,MissedShots,0.934000015,0.575,0.058942426,Raúl García,h,2400,OpenPlay,2019,Head,12164,Athletic Club,Granada,2,0,12/1/2019 13:00,Iñaki Williams,Aerial
+334133,19,SavedShot,0.853000031,0.447999992,0.050788969,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12164,Athletic Club,Granada,2,0,12/1/2019 13:00,Yuri,Cross
+334134,20,SavedShot,0.85,0.497000008,0.095330521,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12164,Athletic Club,Granada,2,0,12/1/2019 13:00,Yuri,Pass
+334139,40,Goal,0.885,0.5,0.743277609,Raúl García,h,2400,Penalty,2019,RightFoot,12164,Athletic Club,Granada,2,0,12/1/2019 13:00,,Standard
+334146,67,ShotOnPost,0.918000031,0.560999985,0.060815372,Raúl García,h,2400,OpenPlay,2019,Head,12164,Athletic Club,Granada,2,0,12/1/2019 13:00,,Aerial
+337187,45,SavedShot,0.780999985,0.497000008,0.034600295,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12184,Athletic Club,Eibar,0,0,12/14/2019 17:30,Iñigo Córdoba,Pass
+337194,83,SavedShot,0.92,0.512000008,0.05310275,Raúl García,h,2400,FromCorner,2019,Head,12184,Athletic Club,Eibar,0,0,12/14/2019 17:30,Ibai Gómez,Aerial
+339454,12,MissedShots,0.745999985,0.31,0.01182883,Raúl García,a,2400,OpenPlay,2019,RightFoot,12200,Real Madrid,Athletic Club,0,0,12/22/2019 20:00,,None
+355357,6,MissedShots,0.873000031,0.577000008,0.102994971,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12213,Athletic Club,Celta Vigo,1,1,1/19/2020 17:30,Yuri,Pass
+355378,70,SavedShot,0.905999985,0.635,0.15192458,Raúl García,h,2400,SetPiece,2019,LeftFoot,12213,Athletic Club,Celta Vigo,1,1,1/19/2020 17:30,Unai López,Cross
+355379,75,Goal,0.885,0.5,0.743149698,Raúl García,h,2400,Penalty,2019,RightFoot,12213,Athletic Club,Celta Vigo,1,1,1/19/2020 17:30,,Standard
+355380,80,MissedShots,0.678000031,0.472000008,0.014094063,Raúl García,h,2400,OpenPlay,2019,RightFoot,12213,Athletic Club,Celta Vigo,1,1,1/19/2020 17:30,Unai López,Pass
+355384,94,BlockedShot,0.883000031,0.584000015,0.065780222,Raúl García,h,2400,OpenPlay,2019,RightFoot,12213,Athletic Club,Celta Vigo,1,1,1/19/2020 17:30,Íñigo Lekue,Cross
+355609,70,MissedShots,0.89,0.357000008,0.021881917,Raúl García,a,2400,SetPiece,2019,RightFoot,12226,Espanyol,Athletic Club,1,1,1/25/2020 12:00,Muniain,Cross
+355613,90,MissedShots,0.784000015,0.345,0.016730264,Raúl García,a,2400,SetPiece,2019,LeftFoot,12226,Espanyol,Athletic Club,1,1,1/25/2020 12:00,,None
+359520,27,MissedShots,0.876999969,0.520999985,0.014905605,Raúl García,h,2400,SetPiece,2019,Head,12253,Athletic Club,Osasuna,0,1,2/16/2020 17:30,Unai Vencedor,Aerial
+360212,7,MissedShots,0.804000015,0.297000008,0.025200766,Raúl García,a,2400,OpenPlay,2019,RightFoot,12263,Alaves,Athletic Club,2,1,2/23/2020 13:00,,BlockedPass
+360215,16,Goal,0.815999985,0.472000008,0.042216137,Raúl García,a,2400,SetPiece,2019,LeftFoot,12263,Alaves,Athletic Club,2,1,2/23/2020 13:00,Yuri,Pass
+361240,5,BlockedShot,0.929000015,0.703000031,0.053053085,Raúl García,h,2400,OpenPlay,2019,RightFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,Muniain,Pass
+361244,14,MissedShots,0.86,0.512999992,0.061490383,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,Yuri,Cross
+361246,21,BlockedShot,0.810999985,0.389000015,0.042916108,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,,None
+361252,50,MissedShots,0.931999969,0.584000015,0.046384472,Raúl García,h,2400,OpenPlay,2019,Head,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,Ander Capa,Aerial
+361254,55,Goal,0.885,0.5,0.743277609,Raúl García,h,2400,Penalty,2019,RightFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,,Standard
+361257,65,SavedShot,0.915,0.337999992,0.265897036,Raúl García,h,2400,SetPiece,2019,RightFoot,12273,Athletic Club,Villarreal,1,0,3/1/2020 13:00,,Rebound
+362062,23,Goal,0.924000015,0.465999985,0.495962054,Raúl García,a,2400,OpenPlay,2019,Head,12289,Real Valladolid,Athletic Club,1,4,3/8/2020 13:00,Iñigo Córdoba,Aerial
+362066,32,MissedShots,0.874000015,0.512999992,0.018607406,Raúl García,a,2400,OpenPlay,2019,Head,12289,Real Valladolid,Athletic Club,1,4,3/8/2020 13:00,Íñigo Lekue,Aerial
+364374,58,MissedShots,0.918000031,0.197000008,0.014322943,Raúl García,h,2400,OpenPlay,2019,RightFoot,12293,Athletic Club,Atletico Madrid,1,1,6/14/2020 12:00,Iñigo Córdoba,Cross
+364719,7,Goal,0.885,0.5,0.743277609,Raúl García,a,2400,Penalty,2019,RightFoot,12305,Eibar,Athletic Club,2,2,6/17/2020 17:30,,Standard
+365517,59,ShotOnPost,0.954000015,0.519000015,0.488265097,Raúl García,h,2400,FromCorner,2019,Head,12313,Athletic Club,Real Betis,1,0,6/20/2020 15:00,Unai López,Cross
+365519,63,MissedShots,0.933000031,0.495999985,0.07008446,Raúl García,h,2400,FromCorner,2019,Head,12313,Athletic Club,Real Betis,1,0,6/20/2020 15:00,Unai López,Aerial
+366806,15,Goal,0.885,0.5,0.743277609,Raúl García,h,2400,Penalty,2019,RightFoot,12333,Athletic Club,Mallorca,3,1,6/27/2020 16:30,,Standard
+366816,71,MissedShots,0.635,0.243999996,0.012140917,Raúl García,h,2400,OpenPlay,2019,LeftFoot,12333,Athletic Club,Mallorca,3,1,6/27/2020 16:30,Unai López,Pass
+368086,3,MissedShots,0.859000015,0.482000008,0.075368777,Raúl García,a,2400,OpenPlay,2019,RightFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,,None
+368089,12,Goal,0.919000015,0.539000015,0.511661768,Raúl García,a,2400,OpenPlay,2019,RightFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,Iñaki Williams,Pass
+368090,16,MissedShots,0.776999969,0.557999992,0.040964048,Raúl García,a,2400,OpenPlay,2019,RightFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,Muniain,Pass
+368096,46,Goal,0.744000015,0.495999985,0.027639633,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,Iñigo Córdoba,Pass
+368100,53,SavedShot,0.805999985,0.49,0.072926432,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,Ander Capa,Pass
+368105,74,MissedShots,0.725999985,0.434000015,0.018780071,Raúl García,a,2400,OpenPlay,2019,RightFoot,12351,Valencia,Athletic Club,0,2,7/1/2020 17:30,Dani García,BallRecovery
+368889,15,SavedShot,0.914000015,0.585,0.033394855,Raúl García,h,2400,OpenPlay,2019,Head,12353,Athletic Club,Real Madrid,0,1,7/5/2020 12:00,Unai López,Aerial
+368895,56,MissedShots,0.881999969,0.449000015,0.026195778,Raúl García,h,2400,OpenPlay,2019,Head,12353,Athletic Club,Real Madrid,0,1,7/5/2020 12:00,Unai López,Aerial
+370799,3,Goal,0.87,0.530999985,0.078449622,Raúl García,a,2400,OpenPlay,2019,RightFoot,12374,Levante,Athletic Club,1,2,7/12/2020 15:00,,None
+370800,6,MissedShots,0.77,0.375999985,0.036440995,Raúl García,a,2400,OpenPlay,2019,RightFoot,12374,Levante,Athletic Club,1,2,7/12/2020 15:00,Iñaki Williams,BallTouch
+370802,14,SavedShot,0.908000031,0.524000015,0.116343834,Raúl García,a,2400,OpenPlay,2019,RightFoot,12374,Levante,Athletic Club,1,2,7/12/2020 15:00,De Marcos,Cross
+370804,45,Goal,0.860999985,0.360999985,0.299959242,Raúl García,a,2400,OpenPlay,2019,RightFoot,12374,Levante,Athletic Club,1,2,7/12/2020 15:00,De Marcos,Chipped
+370807,51,MissedShots,0.858000031,0.165,0.027953627,Raúl García,a,2400,OpenPlay,2019,RightFoot,12374,Levante,Athletic Club,1,2,7/12/2020 15:00,Mikel Vesga,Pass
+372098,14,SavedShot,0.901999969,0.597000008,0.110211685,Raúl García,h,2400,OpenPlay,2019,RightFoot,12386,Athletic Club,Leganes,0,2,7/16/2020 19:00,Oihan Sancet,Pass
+372752,1,MissedShots,0.875,0.305,0.046761435,Raúl García,a,2400,OpenPlay,2019,RightFoot,12397,Granada,Athletic Club,4,0,7/19/2020 19:00,,None
+372763,61,MissedShots,0.809000015,0.709000015,0.02247414,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12397,Granada,Athletic Club,4,0,7/19/2020 19:00,Yuri,Pass
+372764,64,MissedShots,0.668000031,0.017,0.006197412,Raúl García,a,2400,OpenPlay,2019,RightFoot,12397,Granada,Athletic Club,4,0,7/19/2020 19:00,Íñigo Lekue,Pass
+372771,90,MissedShots,0.859000015,0.46,0.048377655,Raúl García,a,2400,OpenPlay,2019,LeftFoot,12397,Granada,Athletic Club,4,0,7/19/2020 19:00,Iñaki Williams,Cross
